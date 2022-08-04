@@ -13,7 +13,6 @@ This project is made of javascript, react, and redux; however, there is no real 
 
 ### Executing program
 
-
 * To see broswer
 ```
 npm run start
@@ -31,4 +30,4 @@ This project is licensed under the MIT License
 ## Acknowledgments
 
 Original Project:
-* https://platzi.com/cursos/jest/
+* https://github.com/gndx/platzi-store
